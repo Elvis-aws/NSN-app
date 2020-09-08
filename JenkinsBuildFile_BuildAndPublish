@@ -25,21 +25,21 @@ pipeline{
         stage('Restore Solution'){
             steps{
                 echo 'Restoring Solution'
-                sh "dotnet restore Asp.Dot.NetCoreWebApp.sln"
+                sh "dotnet restore DemoApp.sln"
             }
         }
 
         stage('Build Solution'){
             steps{
                 echo 'Building Solution'
-                 sh 'dotnet build Asp.Dot.NetCoreWebApp.sln'
+                 sh 'dotnet build DemoApp.sln'
             }
         }
 
         stage('Testing Project'){
             steps{
                 echo 'Running unit tests'
-                 sh 'dotnet test Dot.NetCoreWebApp.csproj'
+                 sh 'dotnet test DemoApp.csproj'
             }
 
         }
@@ -47,7 +47,7 @@ pipeline{
         stage('Publish build'){
             steps{
                  echo 'Publishing Solution'
-                sh 'dotnet publish -c Release -r win-x64 --output ${BuildOutput} Asp.Dot.NetCoreWebApp.sln'
+                sh 'dotnet publish -c Release -r win-x64 --output ${BuildOutput} DemoApp.sln'
             }
 
         }
