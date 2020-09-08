@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6PoMo5kI8sWm2r39bRD+ez0aw4UvPEA8Bl0tFRMfDXHfuWLup15MoEQhuYmZQxWVaN9x1fsK6Sf0BFipR2zWxg==",
+  "dgSpecHash": "6AMKjwapUVWF9cBd6s9zo7e5KN/p7y6ZGiocNnmNYkDWTj7+9bNUOJMP/G8Ct8ux7gmy1Eze2bipKvb1uukHYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\DemoApp.csproj",
   "expectedPackageFiles": [
@@ -18,11 +18,9 @@
     "C:\\Users\\ajang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\ajang\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
     "C:\\Users\\ajang\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\ajang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\ajang\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Users\\ajang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
-    "C:\\Users\\ajang\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.3\\microsoft.netcore.app.runtime.win-x64.3.1.3.nupkg.sha512",
-    "C:\\Users\\ajang\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.3.nupkg.sha512",
-    "C:\\Users\\ajang\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.win-x64.3.1.3.nupkg.sha512"
+    "C:\\Users\\ajang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -63,8 +63,6 @@ C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\Amazon.Lam
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\Amazon.Lambda.Logging.AspNetCore.dll
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csprojAssemblyReference.cache
-C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CoreCompileInputs.cache
-C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.RazorAssemblyInfo.cache
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.RazorAssemblyInfo.cs
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
@@ -88,3 +86,16 @@ C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.dll
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.pdb
 C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.genruntimeconfig.cache
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\web.config
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\appsettings.Development.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\appsettings.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\aws-lambda-tools-defaults.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\bundleconfig.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\DemoApp.deps.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\DemoApp.runtimeconfig.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\wwwroot\lib\bootstrap\.bower.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\wwwroot\lib\jquery-validation-unobtrusive\.bower.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\wwwroot\lib\jquery-validation\.bower.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\bin\Debug\netcoreapp3.1\publishBuild\wwwroot\lib\jquery\.bower.json
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ajang\Desktop\AmazonRepo\AWS_DemoApp\obj\Debug\netcoreapp3.1\DemoApp.MvcApplicationPartsAssemblyInfo.cache
