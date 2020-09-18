@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\DemoApp.csproj": {}
+    "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\DemoApp.csproj": {
+    "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\DemoApp.csproj",
+        "projectUniqueName": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\DemoApp.csproj",
+        "projectPath": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj",
         "packagesPath": "C:\\Users\\ajang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajang\\Desktop\\AmazonRepo\\AWS_DemoApp\\obj\\",
+        "outputPath": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajang\\AppData\\Roaming\\NuGet\\NuGet.Config",
