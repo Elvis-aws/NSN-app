@@ -526,26 +526,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ajang\\.nuget\\packages\\": {}
+    "/Users/ngwesseelvis/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj",
+      "projectUniqueName": "/Users/ngwesseelvis/Desktop/projects/AWS_DemoApp/DemoApp.csproj",
       "projectName": "DemoApp",
-      "projectPath": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\DemoApp.csproj",
-      "packagesPath": "C:\\Users\\ajang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajang\\Desktop\\ebs\\AWS_DemoApp\\obj\\",
+      "projectPath": "/Users/ngwesseelvis/Desktop/projects/AWS_DemoApp/DemoApp.csproj",
+      "packagesPath": "/Users/ngwesseelvis/.nuget/packages/",
+      "outputPath": "/Users/ngwesseelvis/Desktop/projects/AWS_DemoApp/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ajang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ngwesseelvis/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -589,7 +591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
